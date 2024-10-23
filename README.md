@@ -5,9 +5,11 @@
 # Reference Images / Inspiration
 ![House1](REFimg1house.png)
 ![House2](REFimg2house.png)
+
 Generated with Midjourney 
 
 ![DC](Stilt_Village.webp)
+
 Dead Cells
 
 # Breakdown
