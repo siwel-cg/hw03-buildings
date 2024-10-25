@@ -3,7 +3,8 @@
 # Images
 ![City1](SwampHouseRen_2.png)
 ![City2](SwampHouseRen_3.png)
-![HouseDemo](HouseDemo_V2.mp4)
+
+Demo vid: [Vid](https://youtu.be/p0PV_0bE47U)
 
 # Reference Images / Inspiration
 ![House1](REFimg1house.png)
