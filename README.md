@@ -1,6 +1,8 @@
 # CIS 5660 HW03 Procedural Buildings : Lewis Ghrist
 
 # Images
+![City1](SwampHouseRen_2.png)
+![City2](SwampHouseRen_3.png)
 
 # Reference Images / Inspiration
 ![House1](REFimg1house.png)
